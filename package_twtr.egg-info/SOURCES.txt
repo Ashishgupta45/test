@@ -1,0 +1,7 @@
+Licence.txt.txt
+setup.py
+package_twtr/__init__.py
+package_twtr.egg-info/PKG-INFO
+package_twtr.egg-info/SOURCES.txt
+package_twtr.egg-info/dependency_links.txt
+package_twtr.egg-info/top_level.txt
